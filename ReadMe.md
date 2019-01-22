@@ -11,3 +11,5 @@
 [LUITableViewCustomCell](https://github.com/HusterYP/iOS_UI_Component/blob/master/LUITableViewCustomCell/)：自定义列表Item
 
 [VCNavDemo](https://github.com/HusterYP/iOS_UI_Component/blob/master/VCNavDemo/)：UIViewController之间的导航，跳转
+
+[QZoneStretchHeader](https://github.com/HusterYP/iOS_UI_Component/blob/master/QZoneStretchHeader/)：QQ空间可拉伸Header
